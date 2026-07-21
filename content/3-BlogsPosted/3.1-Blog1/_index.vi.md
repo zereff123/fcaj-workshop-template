@@ -8,7 +8,7 @@ pre: " <b> 3.1. </b> "
 
 # SESSION POLICIES TRONG AMAZON EKS POD IDENTITY
 
-Amazon EKS Pod Identity vừa bổ sung tính năng session policies, cho phép bạn thu hẹp quyền IAM một cách linh hoạt và chính xác cho từng pod mà không cần tạo thêm nhiều IAM roles riêng biệt. Đây là bước tiến quan trọng giúp áp dụng nguyên tắc least privilege hiệu quả hơn trong môi trường Kubernetes quy mô lớn.
+Database là nơi lưu trữ và quản lý dữ liệu của ứng dụng. Trong thực tế, cơ sở dữ liệu thường được chia thành hai nhóm chính là SQL và NoSQL. SQL phù hợp với dữ liệu có cấu trúc rõ ràng và nhiều mối quan hệ, trong khi NoSQL linh hoạt hơn, dễ mở rộng và phù hợp với các ứng dụng có lượng truy cập lớn.
 
 Các điểm chính cần nắm:
 
