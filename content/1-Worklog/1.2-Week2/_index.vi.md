@@ -17,5 +17,8 @@ pre: " <b> 1.2. </b> "
 | 2 | Tìm hiểu và làm Workshop về dịch vụ EC2. | 30/04/2026 | 03/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 2 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Cài đặt và cấu hình AWS CLI thành công.
+* Hiểu được khái niệm cơ bản về EC2: Instance types, AMI, EBS.
+* Nắm được các phương thức kết nối SSH vào EC2.
+* Thực hành khởi chạy EC2 instance và kết nối SSH thành công thông qua Workshop.
+* Tìm hiểu về Elastic IP và cách gắn EBS volume.

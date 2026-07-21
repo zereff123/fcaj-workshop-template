@@ -19,5 +19,7 @@ pre: " <b> 1.10. </b> "
 | 4 | Tổng hợp ghi chú và chuẩn bị cho các nội dung thực hành trong thời gian tới. | 26/06/2026 | 28/06/2026 | Tài liệu AWS / Workshop |
 
 ### Week 10 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Tổng hợp và đối chiếu kiến thức thực tiễn thông qua việc phân tích chuyên sâu các case study triển khai Cloud qua video.
+* Khắc sâu luồng hoạt động của ECS và quy trình CI/CD thực tế thường dùng trong môi trường doanh nghiệp.
+* Hoàn tất việc rà soát, đánh giá lại các bài lab và tái tạo môi trường thực hành chuẩn xác.
+* Đạt trạng thái sẵn sàng 100% về mặt lý thuyết lẫn thao tác console để bước vào giai đoạn dự án cuối khóa.

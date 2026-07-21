@@ -19,5 +19,7 @@ pre: " <b> 1.10. </b> "
 | 4 | Summarize notes and prepare for upcoming practical contents. | 26/06/2026 | 28/06/2026 | AWS Documentation / Workshop |
 
 ### Week 10 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Summarized and cross-referenced practical knowledge by conducting in-depth analyses of Cloud deployment case studies via videos.
+* Deepened understanding of the ECS workflow and practical CI/CD processes commonly used in enterprise environments.
+* Completed the review and evaluation of labs, accurately recreating the practice environments.
+* Achieved 100% readiness in both theory and console operations to enter the final project phase.

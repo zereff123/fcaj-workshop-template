@@ -17,5 +17,8 @@ pre: " <b> 1.2. </b> "
 | 2 | Explore and complete a Workshop on the EC2 service. | 30/04/2026 | 03/05/2026 | AWS Documentation / Workshop |
 
 ### Week 2 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Successfully installed and configured AWS CLI.
+* Understood basic EC2 concepts: Instance types, AMI, EBS.
+* Mastered SSH connection methods to EC2.
+* Successfully launched an EC2 instance and connected via SSH through the Workshop.
+* Learned about Elastic IP and how to attach EBS volumes.

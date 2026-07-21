@@ -20,5 +20,7 @@ pre: " <b> 1.12. </b> "
 | 5 | Summarize and complete the internship feedback and evaluation form. | 10/07/2026 | 12/07/2026 | AWS Documentation / Workshop |
 
 ### Week 12 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Successfully deployed the AWS Quizz Game project on AWS cloud infrastructure, ensuring the application runs stably and smoothly.
+* 100% completed the Worklog format and Workshop documentation according to the Markdown template standard on the GitHub repository.
+* Compiled all data and achievements over the 12 weeks to finish writing the Internship Report.
+

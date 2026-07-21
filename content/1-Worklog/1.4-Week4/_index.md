@@ -18,5 +18,7 @@ pre: " <b> 1.4. </b> "
 | 3 | Summarize basic knowledge of the networking model on AWS through VPC. | 15/05/2026 | 17/05/2026 | AWS Documentation / Workshop |
 
 ### Week 4 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Mastered basic network architecture on cloud computing space through Amazon VPC.
+* Understood how Public Subnet, Private Subnet, Route Table, and Internet Gateway operate and differ.
+* Successfully created a custom VPC and configured subnets according to security standards.
+* Ensured basic network routing capabilities and secure resource isolation within AWS.

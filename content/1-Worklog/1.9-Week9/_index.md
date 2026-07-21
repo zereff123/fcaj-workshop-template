@@ -19,5 +19,7 @@ pre: " <b> 1.9. </b> "
 | 4 | Summarize knowledge and perform labs related to CI/CD, ECS, and AWS Monitoring. | 19/06/2026 | 21/06/2026 | AWS Lab Guide |
 
 ### Week 9 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Understood the architecture of Amazon Elastic Container Service (ECS) and the power of AWS Fargate.
+* Successfully configured and connected a pipeline to automatically build Docker images and deploy them straight to an Amazon ECS cluster.
+* Learned how to transition from traditional application hosting models to AWS's professional container management environment.
+* Successfully set up monitoring metrics using AWS Monitoring to track and alert on system health status.

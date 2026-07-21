@@ -18,5 +18,7 @@ pre: " <b> 1.11. </b> "
 | 3 | Chuẩn bị deloy dự án web AWS Quizz Game lên AWS. | 03/07/2026 | 05/07/2026 | Tài liệu AWS / Workshop |
 
 ### Week 11 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Cập nhật các kiến trúc mạng Cloud dành cho cấp độ Doanh nghiệp (Enterprise) từ sự kiện lớn của Cloud Kinetics & Renova Cloud.
+* Giải quyết triệt để các issue tồn đọng và hoàn thành xuất sắc toàn bộ các bài lab cấu hình CI/CD cùng Amazon ECS.
+* Đóng gói hoàn chỉnh mã nguồn, database và kiểm tra đầy đủ các resources cần thiết cho dự án web AWS Quizz Game.
+* Lên kế hoạch các bước tuần tự (step-by-step) để sẵn sàng deploy dự án thực tế lên AWS ở tuần cuối cùng.

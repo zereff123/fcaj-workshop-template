@@ -19,5 +19,7 @@ pre: " <b> 1.9. </b> "
 | 4 | Tổng hợp kiến thức và thực hiện các bài lab liên quan đến CI/CD, ECS và AWS Monitoring. | 19/06/2026 | 21/06/2026 | AWS Lab Guide |
 
 ### Week 9 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Hiểu rõ kiến trúc của Amazon Elastic Container Service (ECS) và sức mạnh của AWS Fargate.
+* Cấu hình và nối luồng thành công pipeline tự động build Docker image và deploy thẳng lên cluster Amazon ECS.
+* Biết cách chuyển đổi mô hình hosting ứng dụng truyền thống sang môi trường quản lý container chuyên nghiệp của AWS.
+* Thiết lập thành công các chỉ số giám sát bằng AWS Monitoring nhằm theo dõi và cảnh báo trạng thái "sức khỏe" hệ thống.

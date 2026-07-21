@@ -78,4 +78,5 @@ Tham gia AWS Study Tour không chỉ là một chuyến đi tìm hiểu công ng
 
 #### Một số hình ảnh khi tham gia sự kiện
 * Thêm các hình ảnh của các bạn tại đây
+![Ảnh sự kiện](/fcaj-workshop-template/images/envent2.png)
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.

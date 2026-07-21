@@ -18,5 +18,7 @@ pre: " <b> 1.11. </b> "
 | 3 | Prepare to deploy the AWS Quizz Game web project to AWS. | 03/07/2026 | 05/07/2026 | AWS Documentation / Workshop |
 
 ### Week 11 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Updated Enterprise-level Cloud network architectures from the major Cloud Kinetics & Renova Cloud event.
+* Thoroughly resolved outstanding issues and successfully completed all CI/CD and Amazon ECS configuration labs.
+* Fully packaged the source code, database, and verified all necessary resources for the AWS Quizz Game web project.
+* Created a step-by-step plan, ready to deploy the real-world project to AWS in the final week.

@@ -21,5 +21,7 @@ pre: " <b> 1.5. </b> "
 | 6 | Tổng hợp kiến thức và thực hiện các bài lab liên quan đến Lambda và Bedrock. | 23/05/2026 | 24/05/2026 | AWS Lab Guide |
 
 ### Week 5 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Nắm bắt trọn vẹn tư duy thiết kế kiến trúc Serverless trên nền tảng AWS.
+* Tạo, viết code và triển khai thành công các hàm AWS Lambda để xử lý tác vụ tự động.
+* Hiểu rõ cơ chế Event-driven (Trigger) và cách Lambda giao tiếp linh hoạt với các dịch vụ AWS khác.
+* Khám phá sức mạnh của Amazon Bedrock và thực hành gọi API thành công các mô hình AI Generative.

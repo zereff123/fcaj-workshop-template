@@ -21,5 +21,7 @@ pre: " <b> 1.5. </b> "
 | 6 | Summarize knowledge and perform labs related to Lambda and Bedrock. | 23/05/2026 | 24/05/2026 | AWS Lab Guide |
 
 ### Week 5 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Fully grasped Serverless architecture design thinking on the AWS platform.
+* Successfully created, coded, and deployed AWS Lambda functions to handle automated tasks.
+* Understood the Event-driven mechanism (Triggers) and how Lambda flexibly communicates with other AWS services.
+* Explored the power of Amazon Bedrock and successfully practiced calling Generative AI model APIs.

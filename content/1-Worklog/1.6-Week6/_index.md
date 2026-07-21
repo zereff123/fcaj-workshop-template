@@ -19,5 +19,7 @@ pre: " <b> 1.6. </b> "
 | 4 | Summarize knowledge and documentation regarding AWS Lambda. | 29/05/2026 | 31/05/2026 | AWS Documentation / Workshop |
 
 ### Week 6 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Conducted deeper research into resource management and execution time optimization for AWS Lambda.
+* Successfully integrated Lambda with Amazon API Gateway to create complete RESTful API endpoints.
+* Established a connection flow between Lambda and Amazon S3 to handle real-time data storage events.
+* Configured CloudWatch effectively to monitor, collect logs, and supervise the performance of the entire Serverless application.

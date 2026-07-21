@@ -20,5 +20,7 @@ pre: " <b> 1.7. </b> "
 | 5 | Summarize knowledge and perform labs related to Docker and CI/CD. | 05/06/2026 | 07/06/2026 | AWS Lab Guide |
 
 ### Week 7 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Understood Containerization concepts, its differences from VMs, and the Docker container lifecycle.
+* Successfully defined application configurations using Dockerfiles, and built and ran Docker images.
+* Mastered the core concepts of Continuous Integration and Continuous Delivery (CI/CD) methodologies.
+* Successfully practiced building a basic CI/CD pipeline to automate the build and deployment process.

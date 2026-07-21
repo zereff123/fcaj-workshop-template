@@ -18,5 +18,7 @@ pre: " <b> 1.4. </b> "
 | 3 | Tổng hợp kiến thức cơ bản về mô hình mạng trên AWS thông qua VPC. | 15/05/2026 | 17/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 4 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Nắm vững kiến trúc mạng cơ bản trên không gian điện toán đám mây thông qua Amazon VPC.
+* Hiểu rõ cách hoạt động và phân biệt giữa Public Subnet, Private Subnet, Route Table và Internet Gateway.
+* Thực hành tạo thành công VPC tùy chỉnh và cấu hình mạng con theo đúng chuẩn bảo mật.
+* Đảm bảo được khả năng định tuyến luồng mạng cơ bản và cô lập tài nguyên an toàn trong AWS.

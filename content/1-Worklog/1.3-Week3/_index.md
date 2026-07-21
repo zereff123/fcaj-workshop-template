@@ -18,5 +18,7 @@ pre: " <b> 1.3. </b> "
 | 3 | Summarize the acquired knowledge. | 08/05/2026 | 10/05/2026 | AWS Documentation / Workshop |
 
 ### Week 3 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Understood concepts of AWS storage services (especially Amazon S3).
+* Grasped the basic process of deploying and hosting static applications on the AWS environment.
+* Attended an AWS event and gathered practical knowledge and trend updates from experts.
+* Successfully summarized documents and personal knowledge notes for the week.

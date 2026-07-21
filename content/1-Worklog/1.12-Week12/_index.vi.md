@@ -20,5 +20,6 @@ pre: " <b> 1.12. </b> "
 | 5 | Tổng hợp và làm phiếu nhận xét, đánh giá thực tập. | 10/07/2026 | 12/07/2026 | Tài liệu AWS / Workshop |
 
 ### Week 12 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Triển khai (Deploy) thành công dự án AWS Quizz Game lên hạ tầng đám mây AWS, đảm bảo ứng dụng vận hành ổn định và trơn tru.
+* Hoàn thiện 100% định dạng Worklog và tài liệu Workshop theo chuẩn template Markdown trên kho lưu trữ GitHub.
+* Tổng hợp toàn bộ số liệu, kết quả đạt được trong 12 tuần và viết xong Báo cáo thực tập (Internship Report).

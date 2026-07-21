@@ -20,5 +20,7 @@ pre: " <b> 1.7. </b> "
 | 5 | Tổng hợp kiến thức và thực hiện các bài lab liên quan đến Docker và CI/CD. | 05/06/2026 | 07/06/2026 | AWS Lab Guide |
 
 ### Week 7 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Hiểu rõ khái niệm Container hóa, sự khác biệt so với máy ảo và vòng đời của Docker container.
+* Tự định nghĩa thành công cấu hình ứng dụng bằng Dockerfile, tiến hành build và run Docker image.
+* Nắm vững các khái niệm cốt lõi của phương pháp Tích hợp liên tục và Giao hàng liên tục (CI/CD).
+* Thực hành xây dựng thành công một pipeline CI/CD cơ bản nhằm tự động hóa quy trình build và deploy.

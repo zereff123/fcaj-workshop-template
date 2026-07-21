@@ -1,39 +1,39 @@
 ---
-title: "Self-Assessment"
-date: 2024-01-01
+title: "Self Evaluation"
+date: 2026-07-12
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **April 17, 2026** to **July 12, 2026**, I had the opportunity to learn, develop, and apply the knowledge gained at university in a real-world working environment.
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+Throughout the internship, I participated in the **Workforce Bootcamp - First Cloud AI Journey (FCAJ)** program. The program covered various Amazon Web Services (AWS) technologies, including Amazon EC2, Amazon ECS, Amazon VPC, AWS Lambda, Amazon Bedrock, Amazon RDS, and Amazon DynamoDB. In addition, I gained hands-on experience with Docker, GitHub Actions, and CI/CD pipelines for application deployment. These activities helped me strengthen my technical knowledge, self-learning ability, analytical thinking, problem-solving skills, teamwork, and technical report writing.
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+Regarding my working attitude, I consistently made every effort to complete assigned tasks on time, proactively explored new technologies, and actively communicated with other participants in the program to improve learning efficiency and gain practical experience.
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+To objectively reflect on my internship performance, I have conducted the following self-evaluation:
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+| No. | Evaluation Criteria | Description | Good | Fair | Average |
+| --- | ------------------- | ----------- | :--: | :--: | :-----: |
+| 1 | **Technical Knowledge and Skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, and quality of work | ☐ | ✅ | ☐ |
+| 2 | **Learning Ability** | Ability to acquire new knowledge and learn quickly | ☐ | ✅ | ☐ |
+| 3 | **Proactiveness** | Taking initiative and completing tasks without constant supervision | ✅ | ☐ | ☐ |
+| 4 | **Responsibility** | Completing assigned tasks on time while maintaining quality | ☐ | ✅ | ☐ |
+| 5 | **Discipline** | Following working hours, company regulations, and work procedures | ☐ | ✅ | ☐ |
+| 6 | **Willingness to Improve** | Accepting feedback and continuously improving | ☐ | ✅ | ☐ |
+| 7 | **Communication Skills** | Presenting ideas and reporting work clearly | ☐ | ✅ | ☐ |
+| 8 | **Teamwork** | Collaborating effectively with teammates | ✅ | ☐ | ☐ |
+| 9 | **Professional Conduct** | Showing respect to colleagues, partners, and the working environment | ✅ | ☐ | ☐ |
+| 10 | **Problem-Solving Skills** | Identifying problems, proposing solutions, and demonstrating creativity | ☐ | ☐ | ✅ |
+| 11 | **Contribution to the Project/Organization** | Work effectiveness, contributions, and recognition from the team | ✅ | ☐ | ☐ |
+| 12 | **Overall Performance** | Overall evaluation of the internship experience | ☐ | ✅ | ☐ |
 
-### Needs Improvement
+## Areas for Improvement
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+Throughout the internship, I identified several areas that require further improvement in order to become a more competent IT professional:
+
+- Strengthen my discipline by consistently following organizational rules and working procedures.
+- Improve my analytical thinking and problem-solving skills to handle real-world situations more effectively.
+- Enhance my communication skills, especially in presenting ideas, discussing technical topics, and handling workplace situations.
+- Continuously update my knowledge of cloud computing, DevOps, and Artificial Intelligence to further improve my professional competence.

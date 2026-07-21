@@ -19,5 +19,7 @@ pre: " <b> 1.8. </b> "
 | 4 | Tổng hợp ghi chú và hoàn thiện tài liệu cá nhân phục vụ cho quá trình học tập tiếp theo. | 12/06/2026 | 14/06/2026 | Tài liệu AWS / Workshop |
 
 ### Week 8 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Hệ thống hóa lại toàn diện các khối kiến thức về Compute (EC2), Serverless (Lambda), và Deployment (Docker, CI/CD).
+* Thực hành lại và fix thành công các lỗi (troubleshoot) từng gặp phải trong các bài lab ở các tuần trước.
+* Nâng cao kỹ năng đọc hiểu tài liệu chuyên ngành trực tiếp từ AWS Documentation.
+* Hoàn thiện chỉn chu bộ ghi chú cá nhân, tạo nền tảng vững chắc để chuyển sang giai đoạn triển khai dự án.

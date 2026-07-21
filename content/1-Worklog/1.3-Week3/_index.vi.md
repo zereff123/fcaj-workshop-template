@@ -18,5 +18,7 @@ pre: " <b> 1.3. </b> "
 | 3 | Tổng hợp kiến thức đã học. | 08/05/2026 | 10/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 3 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Hiểu rõ các khái niệm về dịch vụ lưu trữ trên AWS (đặc biệt là Amazon S3).
+* Nắm được quy trình cơ bản để triển khai và lưu trữ ứng dụng tĩnh trên môi trường AWS.
+* Tham gia sự kiện AWS và thu thập được nhiều kiến thức thực tế, cập nhật xu hướng mới từ các chuyên gia.
+* Tổng hợp thành công các tài liệu và ghi chú kiến thức cá nhân trong tuần.

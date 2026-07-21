@@ -19,5 +19,7 @@ pre: " <b> 1.6. </b> "
 | 4 | Tổng hợp kiến thức và tài liệu về AWS Lambda. | 29/05/2026 | 31/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 6 Achievements:
-* Đã hoàn thành các mục tiêu nghiên cứu và thực hành của tuần.
-* Nắm vững các khái niệm và thao tác cơ bản đối với các dịch vụ được giao.
+* Nghiên cứu sâu hơn về quản lý resource và tối ưu hóa thời gian thực thi cho AWS Lambda.
+* Tích hợp thành công Lambda với Amazon API Gateway để tạo các điểm cuối RESTful API hoàn chỉnh.
+* Thiết lập luồng kết nối Lambda với Amazon S3 để xử lý các sự kiện lưu trữ dữ liệu theo thời gian thực.
+* Cấu hình CloudWatch hiệu quả để theo dõi, thu thập logs và giám sát hiệu suất của toàn bộ ứng dụng Serverless.

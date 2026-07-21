@@ -19,5 +19,7 @@ pre: " <b> 1.8. </b> "
 | 4 | Summarize notes and finalize personal documentation for future learning phases. | 12/06/2026 | 14/06/2026 | AWS Documentation / Workshop |
 
 ### Week 8 Achievements:
-* Successfully completed the week's research and practical objectives.
-* Mastered basic concepts and operations for the assigned services.
+* Comprehensively systematized knowledge blocks covering Compute (EC2), Serverless (Lambda), and Deployment (Docker, CI/CD).
+* Redid and successfully troubleshooted errors encountered in previous weeks' labs.
+* Enhanced skills in reading technical documentation directly from AWS Documentation.
+* Meticulously finalized personal notes, creating a solid foundation to transition into the project deployment phase.
