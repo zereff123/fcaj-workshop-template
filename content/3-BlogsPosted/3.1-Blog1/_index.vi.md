@@ -1,6 +1,6 @@
 ---
 title: "Blog 1"
-date: 2024-01-01
+date: 2026-07-20
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
@@ -12,16 +12,19 @@ Amazon EKS Pod Identity vừa bổ sung tính năng session policies, cho phép 
 
 Các điểm chính cần nắm:
 
-* Session policy là một IAM policy inline được chỉ định khi tạo hoặc cập nhật Pod Identity association.
-* Quyền hiệu quả = intersection (giao) giữa permissions của IAM role và session policy → session policy chỉ có thể thu hẹp, không thể mở rộng quyền.
-* Giúp tránh tình trạng over-permissioning khi reuse chung một IAM role cho nhiều workloads có nhu cầu khác nhau.
-* Hỗ trợ cả same-account và cross-account (qua IAM role chaining).
-* Giảm đáng kể số lượng IAM roles cần quản lý, tránh chạm giới hạn quota IAM trong cluster lớn.
-* Cấu hình dễ dàng qua AWS Management Console, AWS CLI hoặc AWS SDK khi tạo association giữa Kubernetes ServiceAccount và IAM role.
+* Relational Database (SQL) lưu dữ liệu theo bảng, gồm hàng và cột.
+* SQL phù hợp với hệ thống cần tính nhất quán cao và các giao dịch phức tạp.
+* NoSQL không yêu cầu cấu trúc dữ liệu cố định, có thể lưu theo dạng key-value hoặc document.
+* NoSQL phù hợp với ứng dụng web, mobile, game, IoT và các hệ thống có lưu lượng truy cập lớn.
+* Amazon DynamoDB là dịch vụ cơ sở dữ liệu NoSQL được AWS quản lý hoàn toàn.
+* DynamoDB có tốc độ đọc và ghi nhanh, độ trễ thấp và khả năng mở rộng tự động.
+* Dữ liệu được sao chép trên nhiều Availability Zone để tăng tính sẵn sàng và độ bền.
+* DynamoDB hỗ trợ hai chế độ tính phí là On-Demand và Provisioned Capacity.
+* Có thể tích hợp với AWS Lambda, API Gateway, IAM và Amazon CloudWatch.
 
-Tính năng này đặc biệt hữu ích khi bạn có nhiều ứng dụng chạy trên cùng một IAM role nhưng cần giới hạn quyền khác nhau (ví dụ: một pod chỉ đọc S3 bucket cụ thể, pod khác chỉ gọi một số API nhất định).
+Amazon DynamoDB đặc biệt phù hợp với các ứng dụng cần tốc độ xử lý nhanh, khả năng mở rộng linh hoạt và không muốn tự quản lý máy chủ cơ sở dữ liệu, chẳng hạn như ứng dụng web, game online, hệ thống IoT, quản lý phiên đăng nhập và ứng dụng thời gian thực.
 
-...Hình ảnh...
+![Blog picture](/fcaj-workshop-template/images/blog.png)
 
 ...Link...
 

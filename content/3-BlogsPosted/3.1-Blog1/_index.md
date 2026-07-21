@@ -1,6 +1,6 @@
 ---
 title: "Blog 1"
-date: 2024-01-01
+date: 2026-07-20
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
@@ -12,16 +12,19 @@ Amazon EKS Pod Identity has recently added the session policies feature, allowin
 
 Key points to know:
 
-* A session policy is an inline IAM policy specified when creating or updating a Pod Identity association.
-* Effective permissions = intersection between the IAM role permissions and the session policy → the session policy can only narrow permissions, not expand them.
-* Helps avoid over-permissioning when reusing a single IAM role for multiple workloads with different needs.
-* Supports both same-account and cross-account (via IAM role chaining).
-* Significantly reduces the number of IAM roles that need to be managed, helping avoid hitting IAM quota limits in large clusters.
-* Easily configured through the AWS Management Console, AWS CLI, or AWS SDK when creating an association between a Kubernetes ServiceAccount and an IAM role.
+* Relational databases (SQL) store data in tables consisting of rows and columns.
+* SQL is suitable for systems that require high consistency and complex transactions.
+* NoSQL does not require a fixed data structure and can store data as key-value pairs or documents.
+* NoSQL is suitable for web applications, mobile applications, games, IoT systems, and high-traffic workloads.
+* Amazon DynamoDB is a fully managed NoSQL database service provided by AWS.
+* DynamoDB provides fast read and write performance, low latency, and automatic scaling.
+* Data is replicated across multiple Availability Zones to improve availability and durability.
+* DynamoDB supports On-Demand and Provisioned Capacity pricing modes.
+* It can integrate with AWS Lambda, API Gateway, IAM, and Amazon CloudWatch.
 
-This feature is especially useful when you have many applications running on the same IAM role but need different permission restrictions (for example: one pod only reads a specific S3 bucket, another pod only calls certain APIs).
+Amazon DynamoDB is especially suitable for applications that require fast processing, flexible scalability, and minimal database infrastructure management, such as web applications, online games, IoT systems, session management, and real-time applications.
 
-...Image...
+![Blog picture](/fcaj-workshop-template/images/blog.png)
 
 ...Link...
 
