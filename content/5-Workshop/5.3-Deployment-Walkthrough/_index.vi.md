@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn Triển khai"
-date: 2024-01-01
+date: 2026-07-12
 weight: 3
 chapter: false
 alwaysopen: true
