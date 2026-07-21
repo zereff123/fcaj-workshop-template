@@ -10,113 +10,151 @@ pre: " <b> 4.1. </b> "
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Provide a realistic overview of the current recruitment market in the technology industry, especially in Cloud, Data, AI, and software development.
+- Help students understand the increasingly demanding requirements that companies apply to Intern and Junior-level candidates.
+- Share practical strategies for building professional competence, personal visibility, and long-term career growth.
+- Encourage students to develop a lifelong learning mindset through certifications, public side projects, GitHub, and technical blogs.
+- Share practical work and life experiences to help students become more resilient, proactive, and consistent in their personal and professional development.
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Mr. Nguyen Gia Hung** – Head of Solutions Architecture at AWS Vietnam and Founder of the First Cloud AI Journey.
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### 1. Current Recruitment Market
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+- The technology recruitment market is becoming increasingly competitive and demanding. Many companies recruit Interns but expect candidates to possess knowledge and practical skills close to those of Junior-level developers.
 
-#### Transitioning to modern application architecture – Microservices
+- Candidates are increasingly expected to understand modern technologies such as Cloud Computing, Kubernetes (K8s), Artificial Intelligence, DevOps, and software deployment processes.
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+- However, the number of job opportunities has not completely decreased. Instead, the market is gradually shifting from entry-level positions toward roles that require stronger technical capability, practical experience, and greater independence.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+#### 2. Career Development Formula
 
-#### Domain-Driven Design (DDD)
+- The speaker introduced the following career development formula:
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+> **Result = Capability × Visibility × Consistency**
 
-#### Event-Driven Architecture
+- This formula emphasizes that professional success does not depend only on technical capability.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+- **Capability:** Knowledge, technical skills, problem-solving ability, and practical experience.
+- **Visibility:** The ability to demonstrate personal competence through certifications, GitHub repositories, public side projects, technical blogs, community activities, and professional networking.
+- **Consistency:** The ability to maintain continuous learning and development over a long period instead of studying only for short-term goals.
 
-#### Compute Evolution
+- If one of these factors is missing, the overall career development result may be significantly reduced.
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+#### 3. AI-Supported CV Screening
 
-#### Amazon Q Developer
+- Many companies currently use AI-supported systems to screen and evaluate CVs. Therefore, candidates need to present their knowledge, skills, certifications, projects, and achievements clearly.
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- A CV should contain relevant technical keywords, measurable results, and links to practical work such as GitHub repositories, personal websites, or technical blogs.
 
-### Key Takeaways
+- Candidates should also demonstrate a strong **lifelong learning** mindset through continuous learning activities, professional certifications, workshops, and practical projects.
 
-#### Design Mindset
+#### 4. Building a Professional Profile
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+- Students should not rely only on academic knowledge or university grades. They should actively build a professional profile that demonstrates their ability to apply knowledge in real situations.
 
-#### Technical Architecture
+- Useful activities include:
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+- Completing technical certifications.
+- Developing side projects and publishing source code on GitHub.
+- Writing technical blogs to document the learning process.
+- Participating in workshops, communities, and technology events.
+- Practicing communication, teamwork, and presentation skills.
+- Continuously updating knowledge about Cloud, AI, DevOps, and modern software development technologies.
 
-#### Modernization Strategy
+#### 5. Work and Life Experiences
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+- Besides sharing information about technology and recruitment, the speaker also shared practical experiences from work and daily life.
 
-### Applying to Work
+- These experiences focused on how to overcome difficulties, remain patient during periods of slow progress, maintain discipline, and actively recognize opportunities.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+- The speaker emphasized that failures and challenges are unavoidable parts of personal development. The important factors are the ability to learn from mistakes, adjust the development plan, and continue moving forward.
+
+### What I Learned
+
+#### Understanding the Recruitment Market
+
+- Through the event, I learned that the current technology market requires students to prepare earlier and more seriously.
+
+- Academic knowledge is only the initial foundation. To meet the expectations of employers, students need practical experience, independent learning ability, and familiarity with technologies that are widely used in real projects.
+
+- I also understood that job opportunities have not completely disappeared. Instead, companies are prioritizing candidates who can demonstrate stronger capability and contribute to projects more quickly.
+
+#### Professional Development Strategy
+
+- The formula **Capability × Visibility × Consistency** helped me understand that technical knowledge alone is not enough to build a successful career.
+
+- I need to improve my technical skills while also showing evidence of my learning and practical work. GitHub projects, technical blogs, certifications, and community activities can help employers better understand my capability.
+
+- Consistency is also an important factor. Career development requires continuous effort over a long period rather than temporary motivation.
+
+#### Lifelong Learning Mindset
+
+- Technology changes rapidly, especially in areas such as Cloud Computing, Artificial Intelligence, DevOps, and software development.
+
+- Therefore, lifelong learning is no longer only a personal advantage but an essential requirement for working in the technology industry.
+
+- I need to continuously update my knowledge, practice with real projects, and be willing to learn new tools, platforms, and technologies throughout my career.
+
+### Application to Work
+
+#### Strengthening Technical Knowledge
+
+- After the event, I will continue strengthening my knowledge of AWS, Cloud Computing, Docker, CI/CD, Kubernetes, and Artificial Intelligence.
+
+- Instead of learning only through theory, I will apply the knowledge through workshops, labs, and small practical projects.
+
+#### Building Public Projects
+
+- I will develop side projects and publish the source code on GitHub. Each project should include clear documentation, architecture descriptions, installation instructions, and the technologies used.
+
+- This will help me improve my practical skills while providing evidence of my capability to recruiters and employers.
+
+#### Writing Technical Blogs
+
+- I will document the knowledge and experience gained from workshops, projects, and events through technical blog posts.
+
+- Writing blogs will help me review important concepts, improve my communication skills, and gradually build a professional presence in the technology community.
+
+#### Improving My CV
+
+- I will improve my CV by presenting technical skills, certifications, projects, and achievements more clearly.
+
+- Project descriptions should focus on my responsibilities, the technologies used, the problems solved, and the results achieved. I will also include links to GitHub projects and my personal website when appropriate.
+
+#### Maintaining Consistency
+
+- I will create a realistic learning roadmap and divide large goals into smaller weekly tasks.
+
+- Instead of studying many technologies at the same time without completing them, I will prioritize important skills, practice consistently, and regularly evaluate my progress.
 
 ### Event Experience
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+- Participating in the event gave me a more realistic understanding of the current technology recruitment market and the expectations that companies have for young candidates.
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+- One of my strongest impressions was the speaker's direct, approachable, and practical sharing style. The information was not limited to technical knowledge but also included career orientation, personal development, and real-life experiences.
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+- The event helped me recognize that becoming a strong technology professional requires more than completing university courses. It requires continuous practice, public evidence of capability, professional networking, and long-term consistency.
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+- The life experiences shared during the event also gave me additional motivation. They helped me understand that difficulties, failures, and slow progress are normal parts of the learning and development process.
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+#### Lessons Learned
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+- The technology market is becoming more competitive, and the boundary between Intern and Junior-level requirements is gradually becoming less clear.
+
+- To increase career opportunities, I need to develop technical capability, demonstrate my work publicly, and maintain consistent learning habits.
+
+- Certifications, GitHub projects, technical blogs, and community participation are not only additions to a CV. They are practical evidence of a lifelong learning mindset and the ability to apply knowledge.
+
+- The most important lesson I learned is that professional growth is a long-term process. Capability creates value, visibility helps others recognize that value, and consistency ensures continuous improvement.
+
+- In addition, the practical life experiences shared by the speaker reminded me to remain patient, disciplined, and proactive when facing challenges in both work and personal development.
 
 #### Some event photos
-*Add your event photos here*  
+![Event picture](/fcaj-workshop-template/images/kickoff1.png)
+![Event picture](/fcaj-workshop-template/images/kickoff2.png)
 
 > Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
