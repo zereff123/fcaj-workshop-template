@@ -77,5 +77,6 @@ Participating in the AWS Study Tour was not just a technology exploration trip b
 - Starting today, I need to change my learning approach: shift from studying just to pass exams to studying for deep foundational understanding, and actively build a relationship network for the future.
 #### Some event photos
 ![Event picture](/fcaj-workshop-template/images/envent2.png)
+![Event picture](/fcaj-workshop-template/images/envent1.png)
 
 > Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
