@@ -26,6 +26,3 @@ Amazon DynamoDB is especially suitable for applications that require fast proces
 
 ![Blog picture](/fcaj-workshop-template/images/blog.png)
 
-...Link...
-
-...Guide...

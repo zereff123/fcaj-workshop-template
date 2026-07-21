@@ -26,6 +26,3 @@ Amazon DynamoDB đặc biệt phù hợp với các ứng dụng cần tốc đ�
 
 ![Blog picture](/fcaj-workshop-template/images/blog.png)
 
-...Link...
-
-...Hướng dẫn...
