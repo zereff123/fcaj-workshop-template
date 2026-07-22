@@ -59,7 +59,7 @@ Galaxy Brain được xây dựng nhằm giải quyết vấn đề trên thông
 
 Sơ đồ dưới đây mô tả kiến trúc tổng thể và luồng dữ liệu trong hệ thống Serverless của Galaxy Brain.
 
-![System Architecture](/fcaj-workshop-template/2-Proposal/images/architecture.png)
+![System Architecture](/fcaj-workshop-template/images/2-Proposal/architecture.png)
 
 ---
 

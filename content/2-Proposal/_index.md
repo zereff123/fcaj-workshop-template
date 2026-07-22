@@ -60,7 +60,7 @@ Galaxy Brain addresses this challenge through a **serverless cloud-native archit
 
 The following diagram presents the overall serverless architecture and data flow of the Galaxy Brain application.
 
-![System Architecture](/fcaj-workshop-template/2-Proposal/images/architecture.png)
+![System Architecture](/fcaj-workshop-template/images/2-Proposal/architecture.png)
 
 ---
 
