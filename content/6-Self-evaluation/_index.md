@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **April 17, 2026** to **July 12, 2026**, I had the opportunity to learn, develop, and apply the knowledge gained at university in a real-world working environment.
+During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **April 17, 2026** to **July 30, 2026**, I had the opportunity to learn, develop, and apply the knowledge gained at university in a real-world working environment.
 
 Throughout the internship, I participated in the **Workforce Bootcamp - First Cloud AI Journey (FCAJ)** program. The program covered various Amazon Web Services (AWS) technologies, including Amazon EC2, Amazon ECS, Amazon VPC, AWS Lambda, Amazon Bedrock, Amazon RDS, and Amazon DynamoDB. In addition, I gained hands-on experience with Docker, GitHub Actions, and CI/CD pipelines for application deployment. These activities helped me strengthen my technical knowledge, self-learning ability, analytical thinking, problem-solving skills, teamwork, and technical report writing.
 

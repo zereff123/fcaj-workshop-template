@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ **17/04/2026 đến 12/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng những kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ **17/04/2026 đến 30/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng những kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.
 
 Trong quá trình thực tập, tôi tham gia chương trình **Workforce Bootcamp - First Cloud AI Journey (FCAJ)** với các nội dung như tìm hiểu và thực hành trên nền tảng Amazon Web Services (AWS), nghiên cứu các dịch vụ điện toán đám mây như Amazon EC2, Amazon ECS, Amazon VPC, AWS Lambda, Amazon Bedrock, Amazon RDS, Amazon DynamoDB, đồng thời làm quen với Docker, GitHub Actions và quy trình CI/CD để triển khai ứng dụng. Thông qua các nội dung này, tôi đã nâng cao kiến thức chuyên môn, kỹ năng tự học, kỹ năng phân tích và giải quyết vấn đề, cũng như cải thiện khả năng làm việc nhóm và viết báo cáo kỹ thuật.
 
