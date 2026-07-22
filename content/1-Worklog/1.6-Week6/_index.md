@@ -13,10 +13,10 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Conduct in-depth research on AWS Lambda and the Serverless model. | 25/05/2026 | 26/05/2026 | AWS Documentation / Workshop |
-| 2 | Learn how to integrate Lambda with other AWS services such as API Gateway, S3, and CloudWatch. | 26/05/2026 | 28/05/2026 | AWS Documentation / Workshop |
-| 3 | Perform labs on deploying applications using the Serverless model. | 28/05/2026 | 29/05/2026 | AWS Lab Guide |
-| 4 | Summarize knowledge and documentation regarding AWS Lambda. | 29/05/2026 | 31/05/2026 | AWS Documentation / Workshop |
+| 1 | Conduct in-depth research on AWS Lambda and the Serverless model. | 05/25/2026 | 05/25/2026 | AWS Documentation / Workshop |
+| 2 | Learn how to integrate Lambda with other AWS services such as API Gateway, S3, and CloudWatch. | 05/26/2026 | 05/27/2026 | AWS Documentation / Workshop |
+| 3 | Perform labs on deploying applications using the Serverless model. | 05/28/2026 | 05/30/2026 | AWS Lab Guide |
+| 4 | Summarize knowledge and documentation regarding AWS Lambda. | 05/31/2026 | 05/31/2026 | AWS Documentation / Workshop |
 
 ### Week 6 Achievements:
 * Conducted deeper research into resource management and execution time optimization for AWS Lambda.

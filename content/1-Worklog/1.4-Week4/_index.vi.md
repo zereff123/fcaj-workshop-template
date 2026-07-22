@@ -15,7 +15,7 @@ pre: " <b> 1.4. </b> "
 |-----|------|------------|-----------------|--------------------|
 | 1 | Tìm hiểu tổng quan về dịch vụ VPC trên Amazon Web Services. | 11/05/2026 | 13/05/2026 | Tài liệu AWS / Workshop |
 | 2 | Thực hành tạo VPC và cấu hình public/private subnet. | 13/05/2026 | 15/05/2026 | Tài liệu AWS / Workshop |
-| 3 | Tổng hợp kiến thức cơ bản về mô hình mạng trên AWS thông qua VPC. | 15/05/2026 | 17/05/2026 | Tài liệu AWS / Workshop |
+| 3 | Tổng hợp kiến thức cơ bản về mô hình mạng trên AWS thông qua VPC. | 16/05/2026 | 17/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 4 Achievements:
 * Nắm vững kiến trúc mạng cơ bản trên không gian điện toán đám mây thông qua Amazon VPC.

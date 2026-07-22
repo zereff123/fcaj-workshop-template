@@ -13,10 +13,10 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Xem các video hướng dẫn về các dịch vụ AWS và quy trình triển khai ứng dụng trên Cloud. | 22/06/2026 | 23/06/2026 | Tài liệu AWS / Workshop |
-| 2 | Tìm hiểu thêm về Docker, Amazon ECS và quy trình CI/CD thông qua tài liệu và video học tập. | 23/06/2026 | 25/06/2026 | Tài liệu AWS / Workshop |
-| 3 | Ôn tập các kiến thức đã học và xem lại các bài lab đã thực hiện. | 25/06/2026 | 26/06/2026 | AWS Lab Guide |
-| 4 | Tổng hợp ghi chú và chuẩn bị cho các nội dung thực hành trong thời gian tới. | 26/06/2026 | 28/06/2026 | Tài liệu AWS / Workshop |
+| 1 | Xem các video hướng dẫn về các dịch vụ AWS và quy trình triển khai ứng dụng trên Cloud. | 22/06/2026 | 24/06/2026 | Tài liệu AWS / Workshop |
+| 2 | Tìm hiểu thêm về Docker, Amazon ECS và quy trình CI/CD thông qua tài liệu và video học tập. | 25/06/2026 | 25/06/2026 | Tài liệu AWS / Workshop |
+| 3 | Ôn tập các kiến thức đã học và xem lại các bài lab đã thực hiện. | 26/06/2026 | 26/06/2026 | AWS Lab Guide |
+| 4 | Tổng hợp ghi chú và chuẩn bị cho các nội dung thực hành trong thời gian tới. | 27/06/2026 | 27/06/2026 | Tài liệu AWS / Workshop |
 
 ### Week 10 Achievements:
 * Tổng hợp và đối chiếu kiến thức thực tiễn thông qua việc phân tích chuyên sâu các case study triển khai Cloud qua video.

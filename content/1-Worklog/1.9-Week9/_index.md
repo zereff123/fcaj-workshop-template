@@ -13,10 +13,10 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Learn about the CI/CD process and application deployment on Amazon ECS. | 15/06/2026 | 16/06/2026 | AWS Documentation / Workshop |
-| 2 | Practice configuring an automated build and deploy pipeline. | 16/06/2026 | 18/06/2026 | AWS Documentation / Workshop |
-| 3 | Research AWS monitoring services to track system operations. | 18/06/2026 | 19/06/2026 | AWS Documentation / Workshop |
-| 4 | Summarize knowledge and perform labs related to CI/CD, ECS, and AWS Monitoring. | 19/06/2026 | 21/06/2026 | AWS Lab Guide |
+| 1 | Learn about the CI/CD process and application deployment on Amazon ECS. | 06/15/2026 | 06/15/2026 | AWS Documentation / Workshop |
+| 2 | Practice configuring an automated build and deploy pipeline. | 06/16/2026 | 06/18/2026 | AWS Documentation / Workshop |
+| 3 | Research AWS monitoring services to track system operations. | 06/19/2026 | 06/19/2026 | AWS Documentation / Workshop |
+| 4 | Summarize knowledge and perform labs related to CI/CD, ECS, and AWS Monitoring. | 06/20/2026 | 06/20/2026 | AWS Lab Guide |
 
 ### Week 9 Achievements:
 * Understood the architecture of Amazon Elastic Container Service (ECS) and the power of AWS Fargate.

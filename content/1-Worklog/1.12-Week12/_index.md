@@ -13,11 +13,11 @@ pre: " <b> 1.12. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Complete workshops and worklogs based on the GitHub template. | 06/07/2026 | 07/07/2026 | AWS Documentation / Workshop |
-| 2 | Continue deploying and completing the AWS project. | 07/07/2026 | 08/07/2026 | AWS Documentation / Workshop |
-| 3 | Gather information to prepare the internship report. | 08/07/2026 | 09/07/2026 | AWS Documentation / Workshop |
-| 4 | Attend a meeting to discuss the team's internship stamping process phase. | 09/07/2026 | 10/07/2026 | AWS Documentation / Workshop |
-| 5 | Summarize and complete the internship feedback and evaluation form. | 10/07/2026 | 12/07/2026 | AWS Documentation / Workshop |
+| 1 | Complete workshops and worklogs based on the GitHub template. | 07/06/2026 | 07/07/2026 | AWS Documentation / Workshop |
+| 2 | Continue deploying and completing the AWS project. | 07/08/2026 | 07/08/2026 | AWS Documentation / Workshop |
+| 3 | Gather information to prepare the internship report. | 07/09/2026 | 07/09/2026 | AWS Documentation / Workshop |
+| 4 | Attend a meeting to discuss the team's internship stamping process phase. | 07/10/2026 | 07/10/2026 | AWS Documentation / Workshop |
+| 5 | Summarize and complete the internship feedback and evaluation form. | 07/11/2026 | 07/12/2026 | AWS Documentation / Workshop |
 
 ### Week 12 Achievements:
 * Successfully deployed the AWS Quizz Game project on AWS cloud infrastructure, ensuring the application runs stably and smoothly.

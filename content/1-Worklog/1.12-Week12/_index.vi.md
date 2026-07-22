@@ -14,10 +14,10 @@ pre: " <b> 1.12. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
 | 1 | Làm workshop và worklog dựa trên mẫu GitHub. | 06/07/2026 | 07/07/2026 | Tài liệu AWS / Workshop |
-| 2 | Tiếp tục triển khai và hoàn thiện dự án AWS. | 07/07/2026 | 08/07/2026 | Tài liệu AWS / Workshop |
-| 3 | Tổng hợp thông tin làm báo cáo thực tập. | 08/07/2026 | 09/07/2026 | Tài liệu AWS / Workshop |
-| 4 | Tham gia meeting trao đổi về giai đoạn process dấu mộc của nhóm. | 09/07/2026 | 10/07/2026 | Tài liệu AWS / Workshop |
-| 5 | Tổng hợp và làm phiếu nhận xét, đánh giá thực tập. | 10/07/2026 | 12/07/2026 | Tài liệu AWS / Workshop |
+| 2 | Tiếp tục triển khai và hoàn thiện dự án AWS. | 08/07/2026 | 08/07/2026 | Tài liệu AWS / Workshop |
+| 3 | Tổng hợp thông tin làm báo cáo thực tập. | 09/07/2026 | 09/07/2026 | Tài liệu AWS / Workshop |
+| 4 | Tham gia meeting trao đổi về giai đoạn process dấu mộc của nhóm. | 10/07/2026 | 10/07/2026 | Tài liệu AWS / Workshop |
+| 5 | Tổng hợp và làm phiếu nhận xét, đánh giá thực tập. | 11/07/2026 | 12/07/2026 | Tài liệu AWS / Workshop |
 
 ### Week 12 Achievements:
 * Triển khai (Deploy) thành công dự án AWS Quizz Game lên hạ tầng đám mây AWS, đảm bảo ứng dụng vận hành ổn định và trơn tru.

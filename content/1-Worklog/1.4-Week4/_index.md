@@ -13,9 +13,9 @@ pre: " <b> 1.4. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Learn the overview of the VPC service on Amazon Web Services. | 11/05/2026 | 13/05/2026 | AWS Documentation / Workshop |
-| 2 | Practice creating a VPC and configuring public/private subnets. | 13/05/2026 | 15/05/2026 | AWS Documentation / Workshop |
-| 3 | Summarize basic knowledge of the networking model on AWS through VPC. | 15/05/2026 | 17/05/2026 | AWS Documentation / Workshop |
+| 1 | Learn the overview of the VPC service on Amazon Web Services. | 05/11/2026 | 05/13/2026 | AWS Documentation / Workshop |
+| 2 | Practice creating a VPC and configuring public/private subnets. | 05/14/2026 | 05/15/2026 | AWS Documentation / Workshop |
+| 3 | Summarize basic knowledge of the networking model on AWS through VPC. | 05/16/2026 | 05/17/2026 | AWS Documentation / Workshop |
 
 ### Week 4 Achievements:
 * Mastered basic network architecture on cloud computing space through Amazon VPC.

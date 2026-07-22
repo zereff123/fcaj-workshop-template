@@ -13,10 +13,10 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Nghiên cứu chuyên sâu về AWS Lambda và mô hình Serverless. | 25/05/2026 | 26/05/2026 | Tài liệu AWS / Workshop |
-| 2 | Tìm hiểu cách tích hợp Lambda với các dịch vụ AWS khác như API Gateway, S3 và CloudWatch. | 26/05/2026 | 28/05/2026 | Tài liệu AWS / Workshop |
-| 3 | Thực hiện các bài lab về triển khai ứng dụng theo mô hình Serverless. | 28/05/2026 | 29/05/2026 | AWS Lab Guide |
-| 4 | Tổng hợp kiến thức và tài liệu về AWS Lambda. | 29/05/2026 | 31/05/2026 | Tài liệu AWS / Workshop |
+| 1 | Nghiên cứu chuyên sâu về AWS Lambda và mô hình Serverless. | 25/05/2026 | 25/05/2026 | Tài liệu AWS / Workshop |
+| 2 | Tìm hiểu cách tích hợp Lambda với các dịch vụ AWS khác như API Gateway, S3 và CloudWatch. | 26/05/2026 | 27/05/2026 | Tài liệu AWS / Workshop |
+| 3 | Thực hiện các bài lab về triển khai ứng dụng theo mô hình Serverless. | 28/05/2026 | 30/05/2026 | AWS Lab Guide |
+| 4 | Tổng hợp kiến thức và tài liệu về AWS Lambda. | 31/05/2026 | 31/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 6 Achievements:
 * Nghiên cứu sâu hơn về quản lý resource và tối ưu hóa thời gian thực thi cho AWS Lambda.

@@ -14,7 +14,7 @@ pre: " <b> 1.2. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
 | 1 | Học lý thuyết và nghiên cứu dịch vụ EC2 của AWS. | 27/04/2026 | 30/04/2026 | Tài liệu AWS / Workshop |
-| 2 | Tìm hiểu và làm Workshop về dịch vụ EC2. | 30/04/2026 | 03/05/2026 | Tài liệu AWS / Workshop |
+| 2 | Tìm hiểu và làm Workshop về dịch vụ EC2. | 01/05/2026 | 03/05/2026 | Tài liệu AWS / Workshop |
 
 ### Week 2 Achievements:
 * Cài đặt và cấu hình AWS CLI thành công.

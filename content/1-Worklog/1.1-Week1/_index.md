@@ -13,9 +13,9 @@ pre: " <b> 1.1. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Participate in the kickoff meeting of the First Cloud AI Journey - Workforce Bootcamp 2026 program. | 17/04/2026 | 17/04/2026 | AWS Event |
-| 2 | Refer to and learn about AWS with FCAJ. | 22/04/2026 | 24/04/2026 | AWS Documentation / Workshop |
-| 3 | Create an AWS account and complete labs. | 24/04/2026 | 26/04/2026 | AWS Lab Guide |
+| 1 | Participate in the kickoff meeting of the First Cloud AI Journey - Workforce Bootcamp 2026 program. | 04/17/2026 | 04/17/2026 | AWS Event |
+| 2 | Refer to and learn about AWS with FCAJ. | 04/20/2026 | 04/24/2026 | AWS Documentation / Workshop |
+| 3 | Create an AWS account and complete labs. | 04/25/2026 | 04/26/2026 | AWS Lab Guide |
 
 ### Week 1 Achievements:
 * Understood what cloud computing is and the basic service models.

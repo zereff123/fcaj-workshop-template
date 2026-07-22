@@ -13,9 +13,9 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Learn about storage services and application deployment on AWS. | 04/05/2026 | 06/05/2026 | AWS Documentation / Workshop |
-| 2 | Attend an event at AWS. | 06/05/2026 | 08/05/2026 | AWS Event |
-| 3 | Summarize the acquired knowledge. | 08/05/2026 | 10/05/2026 | AWS Documentation / Workshop |
+| 1 | Learn about storage services and application deployment on AWS. | 05/04/2026 | 05/07/2026 | AWS Documentation / Workshop |
+| 2 | Summarize the acquired knowledge. | 05/08/2026 | 05/08/2026 | AWS Documentation / Workshop |
+| 3 | Attend an event at AWS. | 05/09/2026 | 05/09/2026 | AWS Event |
 
 ### Week 3 Achievements:
 * Understood concepts of AWS storage services (especially Amazon S3).

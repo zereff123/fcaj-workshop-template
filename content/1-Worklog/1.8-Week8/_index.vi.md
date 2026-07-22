@@ -14,9 +14,9 @@ pre: " <b> 1.8. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
 | 1 | Xem lại các nội dung đã học về EC2, Docker, CI/CD và AWS Lambda. | 08/06/2026 | 09/06/2026 | Tài liệu AWS / Workshop |
-| 2 | Thực hành lại một số bài lab đã thực hiện nhằm củng cố kiến thức. | 09/06/2026 | 11/06/2026 | AWS Lab Guide |
-| 3 | Đọc thêm tài liệu AWS để hiểu rõ hơn về các dịch vụ đã tìm hiểu trong thời gian thực tập. | 11/06/2026 | 12/06/2026 | Tài liệu AWS / Workshop |
-| 4 | Tổng hợp ghi chú và hoàn thiện tài liệu cá nhân phục vụ cho quá trình học tập tiếp theo. | 12/06/2026 | 14/06/2026 | Tài liệu AWS / Workshop |
+| 2 | Thực hành lại một số bài lab đã thực hiện nhằm củng cố kiến thức. | 10/06/2026 | 11/06/2026 | AWS Lab Guide |
+| 3 | Đọc thêm tài liệu AWS để hiểu rõ hơn về các dịch vụ đã tìm hiểu trong thời gian thực tập. | 12/06/2026 | 12/06/2026 | Tài liệu AWS / Workshop |
+| 4 | Tổng hợp ghi chú và hoàn thiện tài liệu cá nhân phục vụ cho quá trình học tập tiếp theo. | 13/06/2026 | 13/06/2026 | Tài liệu AWS / Workshop |
 
 ### Week 8 Achievements:
 * Hệ thống hóa lại toàn diện các khối kiến thức về Compute (EC2), Serverless (Lambda), và Deployment (Docker, CI/CD).

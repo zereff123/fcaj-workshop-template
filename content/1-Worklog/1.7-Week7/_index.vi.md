@@ -13,11 +13,12 @@ pre: " <b> 1.7. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Nghiên cứu về Docker và mô hình container hóa ứng dụng. | 01/06/2026 | 02/06/2026 | Tài liệu AWS / Workshop |
-| 2 | Tìm hiểu cách tạo Dockerfile, build image và triển khai ứng dụng bằng container. | 02/06/2026 | 03/06/2026 | Tài liệu AWS / Workshop |
-| 3 | Nghiên cứu quy trình CI/CD và vai trò của CI/CD trong phát triển phần mềm. | 03/06/2026 | 04/06/2026 | Tài liệu AWS / Workshop |
+| 1 | Nghiên cứu về Docker và mô hình container hóa ứng dụng. | 01/06/2026 | 01/06/2026 | Tài liệu AWS / Workshop |
+| 2 | Tìm hiểu cách tạo Dockerfile, build image và triển khai ứng dụng bằng container. | 02/06/2026 | 02/06/2026 | Tài liệu AWS / Workshop |
+| 3 | Nghiên cứu quy trình CI/CD và vai trò của CI/CD trong phát triển phần mềm. | 03/06/2026 | 03/06/2026 | Tài liệu AWS / Workshop |
 | 4 | Thực hành xây dựng pipeline CI/CD để tự động hóa quá trình build và triển khai ứng dụng. | 04/06/2026 | 05/06/2026 | Tài liệu AWS / Workshop |
-| 5 | Tổng hợp kiến thức và thực hiện các bài lab liên quan đến Docker và CI/CD. | 05/06/2026 | 07/06/2026 | AWS Lab Guide |
+| 5 | Tham gia sự kiện tại AWS. | 06/06/2026 | 06/06/2026 | Sự kiện AWS |
+| 6 | Tổng hợp kiến thức và thực hiện các bài lab liên quan đến Docker và CI/CD. | 07/06/2026 | 07/06/2026 | AWS Lab Guide |
 
 ### Week 7 Achievements:
 * Hiểu rõ khái niệm Container hóa, sự khác biệt so với máy ảo và vòng đời của Docker container.

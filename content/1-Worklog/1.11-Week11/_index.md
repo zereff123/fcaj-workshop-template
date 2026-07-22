@@ -13,9 +13,10 @@ pre: " <b> 1.11. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Attend the AWS event: Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud. | 29/06/2026 | 01/07/2026 | AWS Event |
-| 2 | Summarize knowledge from practical exercises related to CI/CD and Amazon ECS, and finalize labs. | 01/07/2026 | 03/07/2026 | AWS Lab Guide |
-| 3 | Prepare to deploy the AWS Quizz Game web project to AWS. | 03/07/2026 | 05/07/2026 | AWS Documentation / Workshop |
+
+| 1 | Summarize knowledge from practical exercises related to CI/CD and Amazon ECS, and finalize labs. | 06/29/2026 | 07/01/2026 | AWS Lab Guide |
+| 2 | Prepare to deploy the AWS Quizz Game web project to AWS. | 07/02/2026 | 07/03/2026 | AWS Documentation / Workshop |
+| 3 | Attend the AWS event: Enterprise Cloud Architectures and Industry Application featuring Cloud Kinetics & Renova Cloud. | 07/04/2026 | 07/04/2026 | AWS Event |
 
 ### Week 11 Achievements:
 * Updated Enterprise-level Cloud network architectures from the major Cloud Kinetics & Renova Cloud event.

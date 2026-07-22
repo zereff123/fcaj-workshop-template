@@ -13,8 +13,8 @@ pre: " <b> 1.2. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Learn the theory and research AWS EC2 service. | 27/04/2026 | 30/04/2026 | AWS Documentation / Workshop |
-| 2 | Explore and complete a Workshop on the EC2 service. | 30/04/2026 | 03/05/2026 | AWS Documentation / Workshop |
+| 1 | Learn the theory and research AWS EC2 service. | 04/27/2026 | 04/30/2026 | AWS Documentation / Workshop |
+| 2 | Explore and complete a Workshop on the EC2 service. | 05/01/2026 | 05/03/2026 | AWS Documentation / Workshop |
 
 ### Week 2 Achievements:
 * Successfully installed and configured AWS CLI.

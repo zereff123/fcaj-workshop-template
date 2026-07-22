@@ -14,8 +14,8 @@ pre: " <b> 1.1. </b> "
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
 | 1 | Tham gia buổi kickoff của chương trình First Cloud AI Journey – Workforce Bootcamp 2026. | 17/04/2026 | 17/04/2026 | Sự kiện AWS |
-| 2 | Tham khảo và tìm hiểu về AWS với FCAJ. | 22/04/2026 | 24/04/2026 | Tài liệu AWS / Workshop |
-| 3 | Tạo Tài Khoản và làm các bài lab trên AWS. | 24/04/2026 | 26/04/2026 | AWS Lab Guide |
+| 2 | Tham khảo và tìm hiểu về AWS với FCAJ. | 20/04/2026 | 24/04/2026 | Tài liệu AWS / Workshop |
+| 3 | Tạo Tài Khoản và làm các bài lab trên AWS. | 25/04/2026 | 26/04/2026 | AWS Lab Guide |
 
 ### Week 1 Achievements:
 * Hiểu được điện toán đám mây là gì và các mô hình dịch vụ cơ bản.

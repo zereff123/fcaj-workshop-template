@@ -13,9 +13,9 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 |-----|------|------------|-----------------|--------------------|
-| 1 | Tìm hiểu dịch vụ lưu trữ và triển khai ứng dụng trên AWS. | 04/05/2026 | 06/05/2026 | Tài liệu AWS / Workshop |
-| 2 | Tham gia sự kiện tại AWS. | 06/05/2026 | 08/05/2026 | Sự kiện AWS |
-| 3 | Tổng hợp kiến thức đã học. | 08/05/2026 | 10/05/2026 | Tài liệu AWS / Workshop |
+| 1 | Tìm hiểu dịch vụ lưu trữ và triển khai ứng dụng trên AWS. | 04/05/2026 | 07/05/2026 | Tài liệu AWS / Workshop |
+| 2 | Tổng hợp kiến thức đã học. | 08/05/2026 | 08/05/2026 | Tài liệu AWS / Workshop |
+| 3 | Tham gia sự kiện tại AWS. | 09/05/2026 | 09/05/2026 | Sự kiện AWS |
 
 ### Week 3 Achievements:
 * Hiểu rõ các khái niệm về dịch vụ lưu trữ trên AWS (đặc biệt là Amazon S3).
